@@ -7,7 +7,7 @@ Pedestrian Trajectory Forecasting is the predicting the trajectories of the pede
 
 ![alt text](https://raw.githubusercontent.com/BharatDadwaria/Pedestrian-Trajectory-Forecasting/main/general_pipeline.PNG)
 
-##Code
+## Code
 Available soon
 
 ## Results
