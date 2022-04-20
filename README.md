@@ -12,6 +12,8 @@ Available soon
 
 ## Results
 Based on our proposed pipeline we were able to predict the next 10 frames trajectories of each of the pedestrian in the frame. The Green Trajectory is the ground truth trajectory and the Red Trajectories are the predicted trajectory through our proposed model.
+
+
 ![alt text](https://raw.githubusercontent.com/BharatDadwaria/Pedestrian-Trajectory-Forecasting/main/Virat_v1.gif)
 
 ![alt text](https://raw.githubusercontent.com/BharatDadwaria/Pedestrian-Trajectory-Forecasting/main/Virat_v2.gif)
